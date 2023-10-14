@@ -29,6 +29,8 @@ Asegúrate de conectar correctamente la ESP32 a los relés y configurar los pine
 2. Acceso a Internet para que la ESP32 pueda comunicarse con Firebase.
 3. Instalacion de los programas necesarios para modificar y desplegar el codigo (En mi caso Android Studio, Python 3.11)
 4. Instalación de las bibliotecas necesarias en tu entorno de desarrollo.
+5. Para el uso de la aplicacion de WearOs, es necesario clonar el siguiente repositorio "git clone https://github.com/android/codelab-compose-for-wear-os.git
+cd compose-for-wear-os" y luego reemplazar los archivos almacenados el la carpeta de WearOSApp de este repositorio
 
 ## Instalación
 1. Clona o descarga este repositorio a tu entorno de desarrollo.
